@@ -1,0 +1,15 @@
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\bin\Debug\net10.0\Bank-Account-Tester.exe
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\bin\Debug\net10.0\Bank-Account-Tester.deps.json
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\bin\Debug\net10.0\Bank-Account-Tester.runtimeconfig.json
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\bin\Debug\net10.0\Bank-Account-Tester.dll
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\bin\Debug\net10.0\Bank-Account-Tester.pdb
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.AssemblyInfoInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.AssemblyInfo.cs
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.csproj.CoreCompileInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.sourcelink.json
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.dll
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\refint\Bank-Account-Tester.dll
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.pdb
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\Bank-Account-Tester.genruntimeconfig.cache
+C:\Users\zcru3\OneDrive\Desktop\BankAccountTester\Bank-Account-Tester\obj\Debug\net10.0\ref\Bank-Account-Tester.dll
